@@ -4,6 +4,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 
 <ins>Contributors List</ins>
 - cjacob5
+- bpgibso
 - jgers
 - jze
 - [Clemson Username Here]
@@ -19,6 +20,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+| bpgibso          | Brady-Gibson       | 6            |
 | jgers            | jennagers          | 11           |
 | zjfogl           | zach-fogle         | 3            |
 | nenibta          | NorEnibtawi        | Team 6       |
