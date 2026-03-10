@@ -27,9 +27,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
-<<<<<<< HEAD
 | cdmrtn           | Cmartin05          | Team 3       |
-=======
 | dmalloz          | dantemallozzi05    | 11           |
 | dalabra          | dalabra            | 8            |
 | cjenki8          | cjenks1            | 6            |
@@ -53,7 +51,6 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | bjcarpe          | BJCarpe22          | 11           |
 | bbarre4          | brian-barrett-33   | Team 3       |
 | balabau          | balabau            | 3            |
->>>>>>> 98c03cdbd4770daba72a60f0303d511b7ff8c8da
 |                  |                    |              |
 |                  |                    |              |
 |                  |                    |              |
